@@ -12,7 +12,7 @@ The `input` directory should contain the `*.tar.bz2` file. After running the con
 
 ```bash
 mkdir input
-mv <path to Arcturus-Behnke-dist-*.tar.bz2> .
+mv <path to Arcturus-Behnke-dist-*.tar.bz2> input
 mkdir output
 ```
 
