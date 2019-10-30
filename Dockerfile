@@ -10,6 +10,8 @@ RUN export DEBIAN_FRONTEND="noninteractive" && \
     zlib1g-dev \
     libtool-bin \
     zip \
+    texinfo \
+    cpio \
     autoconf \
     automake \
     flex \
